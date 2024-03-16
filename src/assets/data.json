@@ -25,7 +25,7 @@
       {
         "recipe_id": 2,
         "recipe_name": "Spaghetti Carbonara",
-        "recipe_image": "https://i.ibb.co/MSVxxG1/chicken-1.jpg",
+        "recipe_image": "https://i.ibb.co/mzCyD9c/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-1.jpg",
         "short_description": "Classic Italian pasta dish with creamy sauce and bacon.",
         "ingredients": [
           "400 g spaghetti",
@@ -41,7 +41,7 @@
       {
         "recipe_id": 3,
         "recipe_name": "Vegetable Curry",
-        "recipe_image": "https://i.ibb.co/MSVxxG1/chicken-1.jpg",
+        "recipe_image": "https://i.ibb.co/rFdW67V/top-view-tasty-meat-soup-with-potatoes-seasonings-dark-desk-1.jpg",
         "short_description": "A flavorful vegetarian curry with a mix of vegetables and spices.",
         "ingredients": [
           "1 large potato",
@@ -61,7 +61,7 @@
       {
         "recipe_id": 4,
         "recipe_name": "Grilled Salmon",
-        "recipe_image": "https://i.ibb.co/MSVxxG1/chicken-1.jpg",
+        "recipe_image": "https://i.ibb.co/S6M6SBL/norwegian-salmon-mashed-potato-served-with-boiled-vegetables-1.jpg",
         "short_description": "Healthy grilled salmon fillets with a tangy lemon and herb marinade.",
         "ingredients": [
           "4 salmon fillets",
@@ -77,7 +77,7 @@
       {
         "recipe_id": 5,
         "recipe_name": "Mushroom Risotto",
-        "recipe_image": "https://i.ibb.co/MSVxxG1/chicken-1.jpg",
+        "recipe_image": "https://i.ibb.co/ypVMpym/chicken-cooked-with-potatoes-served-with-greens-1.jpg",
         "short_description": "Creamy and flavorful Italian risotto with mushrooms.",
         "ingredients": [
           "1 cup Arborio rice",
@@ -96,7 +96,7 @@
       {
         "recipe_id": 6,
         "recipe_name": "Banana Bread",
-        "recipe_image": "https://i.ibb.co/MSVxxG1/chicken-1.jpg",
+        "recipe_image": "https://i.ibb.co/rxLtNWk/top-view-banana-bun-1.jpg",
         "short_description": "Moist and delicious banana bread perfect for breakfast or snack.",
         "ingredients": [
           "3 ripe bananas",
