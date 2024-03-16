@@ -1,5 +1,5 @@
 {
-    "banner_image": "https://source.unsplash.com/random/1600x900",
+    "banner_image": "https://i.ibb.co/1r5P2qy/medium-shot-chef-wearing-gloves.jpg",
     "banner_title": "Delicious Recipes",
     "banner_description": "Discover new and exciting recipes from around the world.",
     "our_recipes_description": "Check out our collection of delicious and easy-to-make recipes.",
@@ -19,8 +19,8 @@
           "3 cloves garlic",
           "2 tbsp olive oil"
         ],
-        "preparing_time": "30 min",
-        "calories": "320 calories"
+        "preparation_time": 30,
+        "calories": 320
       },
       {
         "recipe_id": 2,
@@ -35,8 +35,8 @@
           "3 cloves garlic",
           "Salt and black pepper to taste"
         ],
-        "preparing_time": "25 min",
-        "calories": "480 calories"
+        "preparation_time": 25,
+        "calories": 480
       },
       {
         "recipe_id": 3,
@@ -55,8 +55,8 @@
           "400 ml coconut milk",
           "2 tbsp vegetable oil"
         ],
-        "preparing_time": "40 min",
-        "calories": "280 calories"
+        "preparation_time": 40,
+        "calories": 280
       },
       {
         "recipe_id": 4,
@@ -71,8 +71,8 @@
           "1 tsp dried dill",
           "Salt and black pepper to taste"
         ],
-        "preparing_time": "20 min",
-        "calories": "350 calories"
+        "preparation_time": 20,
+        "calories": 350
       },
       {
         "recipe_id": 5,
@@ -90,8 +90,8 @@
           "50 g grated Parmesan cheese",
           "Salt and black pepper to taste"
         ],
-        "preparing_time": "35 min",
-        "calories": "380 calories"
+        "preparation_time": 35,
+        "calories": 380
       },
       {
         "recipe_id": 6,
@@ -108,8 +108,8 @@
           "1 tsp vanilla extract",
           "1/2 tsp ground cinnamon"
         ],
-        "preparing_time": "60 min",
-        "calories": "220 calories"
+        "preparation_time": 60,
+        "calories": 220
       }
     ]
   }
